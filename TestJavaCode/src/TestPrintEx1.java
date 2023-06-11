@@ -1,4 +1,3 @@
-import java.text.Format;
 
 public class TestPrintEx1 {
 
@@ -18,6 +17,7 @@ public class TestPrintEx1 {
 		System.out.println(hexNum);
 		
 		System.out.println("이 내용 취소될까?");
+		System.out.println("이게 되는구만? 오호라");
 	}
 
 }
