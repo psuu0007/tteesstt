@@ -16,6 +16,8 @@ public class TestPrintEx1 {
 		
 		int hexNum = Integer.parseInt("0a", 16);
 		System.out.println(hexNum);
+		
+		System.out.println("이 내용 취소될까?");
 	}
 
 }
