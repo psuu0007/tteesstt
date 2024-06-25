@@ -15,5 +15,7 @@ public class Test1 {
 		System.out.println(new Date());
 		
 		System.out.println("Tue Jun 25 22:45:10 KST 2024");
+		
+		System.out.println("뭐야? 왜 reset 안되");
 	}
 }
